@@ -10,7 +10,8 @@ aqui se realizan las practica en django que es un FrameWork Maco de trabajo
 - 8 seleccionar interprete de python  presione f1 
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 instalar framework Django --> python -m pip install django
-- 11 crear el proyecto en python Django --> django-admin startproject web_project .django-admin startproject cbtis1285j1330 .
-- 12 Ejecutar el servidor --> python manage.py runserver 
-- 13 Realizar migracion --> python manage.py runserver migration
-- 14 vuelve a ejevutar servidor 
+- 11 crear el proyecto en python Django --> django-admin startproject web_project .
+- 12 Ejecutar el servidor --> python manage.py runserver
+- 13 crear una apliacion --> python manage.py startapp hello
+- 14 Realizar migracion --> python manage.py migrate
+- 15 vuelve a ejevutar servidor 
